@@ -47,4 +47,4 @@ Assignment 2: Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
 
 ![image](https://github.com/Sthatikonda8161/Serverless_Architecture/assets/136583514/22c0b8f5-98d6-4823-9bc9-57c8feea1bf3)
 
-## Assignment 15
+
